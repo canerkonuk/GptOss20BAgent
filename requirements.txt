@@ -1,0 +1,16 @@
+# LLM Inference
+llama-cpp-python
+
+# UI Framework
+gradio
+
+# Search Functionality
+ddgs
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Utilities
+python-dotenv
